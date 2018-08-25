@@ -6,9 +6,9 @@ public class JDBCConnection {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String jdbcURL="jdbc:mysql://localhost:3306/hb_student_tracker?useSSL=false";
+		String jdbcURL="jdbc:mysql://localhost:3306/web_customer_tracker?useSSL=false";
 		String userName="root";
-		String password="root";
+		String password="woiseepz";
 		
 		
 		try {
